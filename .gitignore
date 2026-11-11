@@ -1,0 +1,12 @@
+# Training artifacts, large datasets and private input footage
+runs/
+waste_dataset/
+TrashDataset/
+*.pt
+*.pth
+*.onnx
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
